@@ -13,8 +13,8 @@ Users can order meals from the list, adjust quantities, add items to the cart, a
 - useReducer
 - real-time database;
 
-<img src="/src/img/reactMeals.png" alt="ReactMeals app" >
-<img src="/src/img/reactMealsCart.png" alt="ReactMeals Cart app" >
+<img src="/src/assets/reactMeals.png" alt="ReactMeals app" >
+<img src="/src/assets/reactMealsCart.png" alt="ReactMeals Cart app" >
 
 In the project directory, you can run:
 
