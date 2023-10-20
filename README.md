@@ -3,7 +3,7 @@
 <p>ReactMeals is a fake React application designed to assist users in placing meal orders. Firebase was utilized to retrieve the meal list and store data for ordered meals and delivery information. Because it is a real-time database, we can promptly obtain information as soon as a user clicks the 'submit' button in the order form.
 Users can order meals from the list, adjust quantities, add items to the cart, and more. This application is an educational project offered as part of a course by Maximilian Schwarzmüller.</p>
 
-## [ReactMeals project preview](https://reactmeals-project.netlify.app/)
+## [ReactMeals project preview](https://react-meals-project1.netlify.app/)
 
 ## Used in App:
 
